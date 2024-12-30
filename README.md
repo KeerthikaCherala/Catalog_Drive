@@ -4,4 +4,4 @@
 
 <h1>Install Node js to execute JS in Localhost</h1>
 <h3>To run use command</h3>
-  ``` node code.js```
+  node code.js
